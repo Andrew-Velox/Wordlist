@@ -15,7 +15,7 @@
 
 ```
 cd
-rm -rf wordlist
+rm -rf Wordlist
 pkg update
 pkg upgrade
 pkg install python
